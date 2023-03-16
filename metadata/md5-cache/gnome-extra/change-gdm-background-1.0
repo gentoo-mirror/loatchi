@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DEPEND=dev-libs/glib
+DESCRIPTION=This script automates the process of setting an image or color in GNOME Display Manager 3 background
+EAPI=7
+HOMEPAGE=https://github.com/anirudhgupta109/arch-change-gdm-background
+KEYWORDS=~amd64
+RDEPEND=dev-libs/glib
+SLOT=0
+SRC_URI=https://github.com/anirudhgupta109/arch-change-gdm-background/archive/refs/heads/master.zip
+_md5_=c13a4f99768326bc82642112cbf8759e
