@@ -7,6 +7,7 @@ games-util/capsule-farmer-evolved 1.4: A program to trick lolesports.com into th
 games-util/minemap 1.0.26: 
 gnome-extra/change-gdm-background 1.0: This script automates the process of setting an image or color in GNOME Display Manager 3 background
 gnome-extra/gdm-settings 1.1 2.1: A settings app for GNOME's Login/Display Manager, GDM
+gnome-extra/secrets 7.2: A password manager which integrates perfectly with the GNOME desktop
 net-im/betterdiscordctl 2.0.1: A utility for managing BetterDiscord on Linux
 net-p2p/fragments 2.1: Fragments is an easy to use BitTorrent client.
 net-print/epson-inkjet-printer-escpr 1.7.25: Epson Inkjet Printer Driver (ESC/P-R)
