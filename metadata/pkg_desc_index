@@ -11,4 +11,4 @@ gnome-extra/gdm-settings 1.1 2.1: A settings app for GNOME's Login/Display Manag
 gnome-extra/secrets 7.2 7.3: A password manager which integrates perfectly with the GNOME desktop
 net-im/betterdiscordctl 2.0.1: A utility for managing BetterDiscord on Linux
 net-p2p/fragments 2.1: Fragments is an easy to use BitTorrent client.
-net-print/epson-inkjet-printer-escpr 1.7.25: Epson Inkjet Printer Driver (ESC/P-R)
+net-print/epson-inkjet-printer-escpr 1.7.26: Epson Inkjet Printer Driver (ESC/P-R)
