@@ -9,4 +9,4 @@ RDEPEND=dev-libs/glib
 REQUIRED_USE=systemd
 SLOT=0
 SRC_URI=https://github.com/anirudhgupta109/arch-change-gdm-background/archive/refs/heads/master.zip
-_md5_=de0f2e36e0778f630877f65e879a7371
+_md5_=fd73e1a79dd1e6cd97b902f675ce4ef2
