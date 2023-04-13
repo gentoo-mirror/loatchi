@@ -7,7 +7,7 @@ games-util/capsule-farmer-evolved 1.4: A program to trick lolesports.com into th
 games-util/ferium 4.4.0: Fast CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and Github Releases
 games-util/minemap 1.0.26: 
 gnome-extra/change-gdm-background 1.0: This script automates the process of setting an image or color in GNOME Display Manager 3 background
-gnome-extra/gdm-settings 1.1 2.1: A settings app for GNOME's Login/Display Manager, GDM
+gnome-extra/gdm-settings 3.0: A settings app for GNOME's Login/Display Manager, GDM
 gnome-extra/secrets 7.2 7.3: A password manager which integrates perfectly with the GNOME desktop
 net-im/betterdiscordctl 2.0.1: A utility for managing BetterDiscord on Linux
 net-p2p/fragments 2.1: Fragments is an easy to use BitTorrent client.
