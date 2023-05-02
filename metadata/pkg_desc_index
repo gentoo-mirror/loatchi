@@ -1,7 +1,7 @@
 dev-python/imaplib2 3.6: Threaded Python IMAP4 client.
 dev-python/pykeepass 4.0.3: This library allows you to write entries to a KeePass database.
 dev-python/zxcvbn 4.4.28: A realistic password strength estimator.
-dev-util/pycharm-community 2023.1: Intelligent Python IDE with unique code assistance and analysis
+dev-util/pycharm-community 2023.1.1: Intelligent Python IDE with unique code assistance and analysis
 games-util/amidst 4.7: 
 games-util/capsule-farmer-evolved 1.4: A program to trick lolesports.com into thinking you are watching streams.
 games-util/ferium 4.4.0: Fast CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and Github Releases
