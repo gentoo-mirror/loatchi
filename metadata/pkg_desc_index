@@ -10,7 +10,7 @@ gnome-extra/change-gdm-background 1.0: This script automates the process of sett
 gnome-extra/gdm-settings 3.1: A settings app for GNOME's Login/Display Manager, GDM
 gnome-extra/secrets 7.2 7.3: A password manager which integrates perfectly with the GNOME desktop
 gui-libs/libpqmarble 42.0: Utility library for GNOME apps.
-media-gfx/loupe 44.0 44.2: A simple image viewer application written with GTK4 and Rust.
+media-gfx/loupe 44.0 44.2 44.3: A simple image viewer application written with GTK4 and Rust.
 net-im/betterdiscordctl 2.0.1: A utility for managing BetterDiscord on Linux
 net-p2p/fragments 2.1: Fragments is an easy to use BitTorrent client.
 net-print/epson-inkjet-printer-escpr 1.7.26: Epson Inkjet Printer Driver (ESC/P-R)
