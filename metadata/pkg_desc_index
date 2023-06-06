@@ -1,5 +1,5 @@
 dev-python/imaplib2 3.6: Threaded Python IMAP4 client.
-dev-python/pykeepass 4.0.4: This library allows you to write entries to a KeePass database.
+dev-python/pykeepass 4.0.5: This library allows you to write entries to a KeePass database.
 dev-python/zxcvbn 4.4.28: A realistic password strength estimator.
 dev-util/pycharm-community 2023.1.2: Intelligent Python IDE with unique code assistance and analysis
 games-util/amidst 4.7: 
