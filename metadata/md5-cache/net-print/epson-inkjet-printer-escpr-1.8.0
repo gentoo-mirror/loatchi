@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz
+DEFINED_PHASES=configure install unpack
+DEPEND=net-print/cups
+DESCRIPTION=Epson Inkjet Printer Driver (ESC/P-R)
+EAPI=7
+HOMEPAGE=https://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+INHERIT=rpm
+KEYWORDS=amd64 ~ppc64
+LICENSE=GPL-2
+RDEPEND=net-print/cups
+SLOT=0
+SRC_URI=https://download3.ebz.epson.net/dsc/f/03/00/14/61/06/ad3f08f88782de47a1aec9acda205e354309636e/epson-inkjet-printer-escpr-1.8.0-1.src.rpm
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	745ef34afb8c31915d9d42a6aca23a35
+_md5_=55da94b0a800130c2c655ce05001481b
