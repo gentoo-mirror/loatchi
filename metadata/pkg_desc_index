@@ -9,7 +9,7 @@ games-util/ferium 4.4.1: Fast CLI program for managing Minecraft mods and modpac
 games-util/minemap 1.0.26: 
 gnome-extra/change-gdm-background 1.0: This script automates the process of setting an image or color in GDM's background
 gnome-extra/gdm-settings 3.3: A settings app for GNOME's Login/Display Manager, GDM
-gnome-extra/secrets 7.3: A password manager which integrates perfectly with the GNOME desktop
+gnome-extra/secrets 7.3 8.0: A password manager which integrates perfectly with the GNOME desktop
 gui-libs/libpqmarble 42.0: Utility library for GNOME apps.
 media-gfx/loupe 44.0 44.2 44.3: A simple image viewer application written with GTK4 and Rust.
 net-im/betterdiscordctl 2.0.1: A utility for managing BetterDiscord on Linux
