@@ -15,5 +15,5 @@ media-gfx/loupe 44.0 45.3: A simple image viewer application written with GTK4 a
 media-libs/glycin 0.1.2: Sandboxed and extendable image decoding
 net-im/betterdiscordctl 2.0.1: A utility for managing BetterDiscord on Linux
 net-p2p/fragments 2.1.1: Fragments is an easy to use BitTorrent client.
-net-print/epson-inkjet-printer-escpr 1.8.2: Epson Inkjet Printer Driver (ESC/P-R)
+net-print/epson-inkjet-printer-escpr 1.8.3: Epson Inkjet Printer Driver (ESC/P-R)
 x11-terms/blackbox 0.14.0: A beautiful GTK 4 terminal.
