@@ -11,7 +11,7 @@ gnome-extra/change-gdm-background 1.0: This script automates the process of sett
 gnome-extra/gdm-settings 4.1: A settings app for GNOME's Login/Display Manager, GDM
 gnome-extra/secrets 7.3 8.0: A password manager which integrates perfectly with the GNOME desktop
 gui-libs/libpqmarble 42.0: Utility library for GNOME apps.
-media-gfx/loupe 44.0 45.3: A simple image viewer application written with GTK4 and Rust.
+media-gfx/loupe 44.0 45.3 46_alpha: A simple image viewer application written with GTK4 and Rust.
 media-libs/glycin 0.1.2: Sandboxed and extendable image decoding
 net-im/betterdiscordctl 2.0.1: A utility for managing BetterDiscord on Linux
 net-p2p/fragments 2.1.1: Fragments is an easy to use BitTorrent client.
