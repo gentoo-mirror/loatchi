@@ -1,4 +1,5 @@
 app-pda/checkra1n 0.12.0 0.12.1 0.12.2 0.12.3 0.12.4: Jailbreak for iPhone 5s through iPhone X, iOS 12.0 and up
+app-shells/doas-bash-completion 0: Add doas support for bash-completion using aarchetype's pull request.
 app-shells/gradle-completion 1.4.1: Bash and Zsh completion support for Gradle.
 dev-python/imaplib2 3.6: Threaded Python IMAP4 client.
 dev-python/pykeepass 4.0.7: This library allows you to write entries to a KeePass database.
