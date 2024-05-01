@@ -1,8 +1,10 @@
 app-pda/checkra1n 0.12.0 0.12.1 0.12.2 0.12.3 0.12.4: Jailbreak for iPhone 5s through iPhone X, iOS 12.0 and up
 app-shells/doas-bash-completion 0: Add doas support for bash-completion using aarchetype's pull request.
 app-shells/gradle-completion 1.4.1: Bash and Zsh completion support for Gradle.
+dev-python/PyKCS11 1.5.15: A complete PKCS#11 wrapper for Python.
 dev-python/imaplib2 3.6: Threaded Python IMAP4 client.
-dev-python/pykeepass 4.0.7: This library allows you to write entries to a KeePass database.
+dev-python/pykeepass 4.0.7_p1: This library allows you to write entries to a KeePass database.
+dev-python/python-yubico 1.3.3: This library allows you to write entries to a KeePass database.
 dev-python/zxcvbn 4.4.28: A realistic password strength estimator.
 dev-util/pycharm-community 2024.1: Intelligent Python IDE with unique code assistance and analysis
 games-util/amidst 4.7: 
@@ -11,7 +13,7 @@ games-util/ferium 4.5.1 4.5.2: Fast CLI program for managing Minecraft mods and 
 games-util/minemap 1.0.26: 
 gnome-extra/change-gdm-background 1.0: This script automates the process of setting an image or color in GDM's background
 gnome-extra/gdm-settings 4.3: A settings app for GNOME's Login/Display Manager, GDM
-gnome-extra/secrets 7.3 8.0: A password manager which integrates perfectly with the GNOME desktop
+gnome-extra/secrets 8.0 9.3: A password manager which integrates perfectly with the GNOME desktop
 gui-libs/libpqmarble 42.0: Utility library for GNOME apps.
 media-gfx/artem 3.0.0: Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art
 media-gfx/loupe 44.3 45.3 46_alpha 46_beta 46_rc: A simple image viewer application written with GTK4 and Rust.
