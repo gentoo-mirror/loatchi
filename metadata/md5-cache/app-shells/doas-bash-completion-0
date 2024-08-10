@@ -7,5 +7,5 @@ KEYWORDS=amd64 x86
 LICENSE=UNKNOWN
 SLOT=0
 SRC_URI=https://raw.githubusercontent.com/scop/bash-completion/2d7a7f0415158f0e5733bb259c36550fa673c3c2/completions/doas
-_eclasses_=toolchain-funcs	e7e7331166166e7a516d19e264b098c2	multilib	c19072c3cd7ac5cb21de013f7e9832e0	bash-completion-r1	f5e7a020fd9c741740756aac61bf75ff	shell-completion	bb7eb6bc232cd6c4bf8af739cdd2ee14
+_eclasses_=toolchain-funcs	0c713337f7872f1a002cecaaea9bef73	multilib	c19072c3cd7ac5cb21de013f7e9832e0	bash-completion-r1	f5e7a020fd9c741740756aac61bf75ff	shell-completion	bb7eb6bc232cd6c4bf8af739cdd2ee14
 _md5_=53e64f64e4b5ac8694ffd3d3704b23ff
